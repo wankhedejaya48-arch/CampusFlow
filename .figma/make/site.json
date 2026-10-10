@@ -1,0 +1,10 @@
+{
+  "description": "Streamline academic resource sharing for college students and teachers with a platform to upload, browse, and download study materials efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
